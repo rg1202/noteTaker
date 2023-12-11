@@ -20,7 +20,7 @@ Robert Gould, rg1202
 
 ## Images of generated demo README.md
 
-![Gif](.\readmeFiles\2023-12-11_11-40-42.gif)
+![Gif](https://github.com/rg1202/noteTaker/blob/4167a9fa3fe3da078912775167b9d2eb82a596b8/readmeFiles/2023-12-11_11-40-42.gif)
 <br>
 
 
